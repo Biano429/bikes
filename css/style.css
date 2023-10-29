@@ -1,0 +1,27 @@
+body{
+  background-color: blue;
+}
+h1 {
+  color:red;
+  font-size: 21px;
+  font-family: Arial;
+}
+p{
+  color: lightgreen;
+  font-size: 21px;
+  font-family: impact;
+}
+/*
+img{
+  width: 100px;
+  border-radius: 40px;
+}
+*/
+.senha{
+  width: 80px;
+  border-radius: 200px;
+}
+.bianobikes{
+  width: 80px;
+  border-radius: 80px;
+}
